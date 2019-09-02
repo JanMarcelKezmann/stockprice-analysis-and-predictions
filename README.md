@@ -18,3 +18,9 @@ pip install -r requirements.txt
 
 ### Run with JupyterNotebook or JupyterLab
 <p>Just open the .ipynb code in a Notebook of your choice and run it.
+
+
+## Example: Microsoft
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/50111329/64119384-0986d600-cd9a-11e9-9e62-d2f7d2822e62.png" width="600px" alt="">
+</p>
