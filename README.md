@@ -4,15 +4,16 @@
 
 ## Local Installation
 
-### Clone the repo
+### Clone the repo (or simply download it)
 ```shell
 $ git clone https://github.com/JanMarcelKezmann/stockprice-analysis-and-predictions.git
 ```
 
 ### Install requirements
+##### (in shell)
 
 ```shell
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Run with JupyterNotebook or JupyterLab
