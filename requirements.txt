@@ -2,7 +2,7 @@ sklearn
 seaborn
 xgboost
 matplotlib
-lgboost
+lightgbm
 pandas
 numpy
 pandas_datareader
