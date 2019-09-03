@@ -6,5 +6,4 @@ lightgbm
 pandas
 numpy
 pandas_datareader
-math
 datetime
