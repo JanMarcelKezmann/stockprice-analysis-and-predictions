@@ -2,7 +2,7 @@
 
 <p>This tool is meant to gain data from the <a href="https://finance.yahoo.com">Yahoo finance page</a> and display some historical features of a stock trend within a given period of time</p>
 
-##Some Results of the Stockprice analysis and predictions: 
+### Some Results of the Stockprice analysis and predictions: 
 - The best model after testing over 10 different stocks is always the GradientBoosting Regressor
 - Even Averaged models are combined not better the the GradientBoosting Regressor alone
 - The accuracy depends strongly on the volatility of each stock (the more volatile the less better/accurate the prediction)
