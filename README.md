@@ -13,11 +13,11 @@
 
 ### Clone the repo (or simply download it)
 ```shell
-$ git clone https://github.com/JanMarcelKezmann/stockprice-analysis-and-predictions.git
+git clone https://github.com/JanMarcelKezmann/stockprice-analysis-and-predictions.git
 ```
 
 ### Install requirements
-##### (in shell)
+##### (navigate into the new folder)
 
 ```shell
 pip install -r requirements.txt
